@@ -1,2 +1,2 @@
 # PersonalWebsite
-A handmade Website used to display my work and projects.
+A handmade website used to display my work and projects.
